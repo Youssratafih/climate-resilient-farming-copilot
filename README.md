@@ -315,9 +315,9 @@ MIT License — Voir [LICENSE](LICENSE) pour plus d'informations.
 
 ## 📬 Contact
 
-**Votre Nom** — [votre.email@example.com](mailto:votre.email@example.com)
+**Votre Nom** — [youssratafih@gmail.com](mailto:youssratafih@gmail.com)
 
-**Projet :** [https://github.com/votre-username/agricopilot](https://github.com/votre-username/agricopilot)
+**Projet :** [https://github.com/Youssratafih/agricopilot](https://github.com/votre-username/agricopilot)
 
 ---
 
